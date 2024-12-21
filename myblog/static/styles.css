@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+}
+
+.head{
+    border: 2px solid rgb(4, 3, 3) ;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.108);
+    width: 90%;
+    margin-top: 60px;
+    align-items: center;
+    text-align: center;
+    margin-left: 5%;
+}
+
+h2{
+    color: black;
+}
+p{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
